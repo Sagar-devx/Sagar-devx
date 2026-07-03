@@ -22,9 +22,3 @@ Email Me 👉 ✉️ **sagarsharma.devx@gmail.com ** For Collaboration/Project o
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
