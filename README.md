@@ -78,5 +78,3 @@ A CRUD application built with Spring MVC, Hibernate ORM, JSP, Bootstrap, and Mic
 ### 🤝 Let's Connect
 
 I'm always open to collaborating on exciting projects, backend development, and open-source contributions.
-
-⭐ If you like my work, consider giving a star to my repositories!
