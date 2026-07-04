@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Sagar Sharma
 
-### Java Backend Developer | Software Developer | DevOps Enthusiast
+### Java Backend Developer | Software Developer
 
 Passionate about building scalable backend applications using Java and Spring Boot. I enjoy solving real-world problems, designing REST APIs, and continuously learning System Design, Cloud, and DevOps.
 
