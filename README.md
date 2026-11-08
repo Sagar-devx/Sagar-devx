@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Sagar-devx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=680&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Microservices+%7C+React;Kafka+%7C+Docker+%7C+Redis+%7C+pgvector;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=680&lines=Full+Stack+Java+Developer;Generative+AI+%26+RAG+Developer;Spring+Boot+%7C+Microservices+%7C+React;Kafka+%7C+Docker+%7C+pgvector+%7C+Redis;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
   </a>
 </p>
 
