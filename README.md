@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Sagar-devx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=680&lines=Full+Stack+Java+Developer;Generative+AI+%26+RAG+Developer;Spring+Boot+%7C+Microservices+%7C+React;Kafka+%7C+Docker+%7C+pgvector+%7C+Redis;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Java+Developer;Autonomous+AI+Agents+%26+RAG+Developer;Spring+Boot+%7C+Microservices+%7C+React;Kafka+%7C+Docker+%7C+pgvector+%7C+Redis;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,8 +18,8 @@
 ### 🧑‍💻 About Me
 
 - 💻 **Full Stack Java Developer** passionate about building robust REST APIs, microservices, and modern web applications.
-- 🛠️ Hands-on experience with **Java, Spring Boot, React, Kafka, Redis, Docker, and PostgreSQL (pgvector)**.
-- 🧠 Building and exploring **Generative AI & RAG systems** using Spring AI and vector search.
+- 🤖 Building **Autonomous AI Agents & Semantic RAG Systems** utilizing Spring AI, LLM Tool Calling (function execution), and vector databases.
+- 🛠️ Hands-on engineering experience with **Java, Spring Boot, React, Kafka, Redis, Docker, and PostgreSQL (pgvector)**.
 - ⚡ Active problem solver on **LeetCode** sharpening Data Structures, Algorithms, and Core CS concepts.
 - 📍 Based in **India** | Open to **Software Engineer (SDE)** roles.
 - 📫 Reach me at: **sagarsharma.devx@gmail.com**
@@ -29,6 +29,20 @@
 ### 🛠️ Skills & Technologies
 
 <details open>
+<summary><b>🤖 Artificial Intelligence, Agents & Vector Search</b></summary>
+<br/>
+
+![AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/LLM_Tool_Calling-00C896?style=for-the-badge)
+![RAG Pipelines](https://img.shields.io/badge/Semantic_RAG-3B82F6?style=for-the-badge)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20Cloud-FF6B6B?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</details>
+
+<details open>
 <summary><b>☕ Backend & Core</b></summary>
 <br/>
 
@@ -36,7 +50,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -63,16 +76,13 @@
 </details>
 
 <details open>
-<summary><b>🗄️ Databases & Vector Search</b></summary>
+<summary><b>🗄️ Databases & Storage</b></summary>
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20Cloud-FF6B6B?style=for-the-badge)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </details>
 
